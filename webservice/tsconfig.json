@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "strict": true,
+    "rootDir": "./src",
+    "esModuleInterop": true
+  },
+  "include": ["./src/*", "src/Presentation/usuario.ts", "src/Presentation/Command.ts", "src/Presentation/FrontController.ts"]
+}
