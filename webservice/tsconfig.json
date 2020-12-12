@@ -8,5 +8,5 @@
     "rootDir": "./src",
     "esModuleInterop": true
   },
-  "include": ["./src/*", "src/Presentation/usuario.ts", "src/Presentation/Command.ts", "src/Presentation/FrontController.ts"]
+  "include": ["./src/*", "src/Presentation/User.ts", "src/Presentation/Command.ts", "src/Presentation/FrontController.ts"]
 }
